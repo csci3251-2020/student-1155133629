@@ -1,6 +1,6 @@
 # Li Pui Lam Precila
 ### Something about me...
-I am a CS student but I am **not good at coding**... And that's **true** :D
+I am a CS student but I am **not good at coding**... And that's **true** :D  
 I just enter CUHK this year with Advanced Standing. Hope I can learn better coding...
 
 ### Programming Language that I have tried before
