@@ -22,4 +22,4 @@ Finding Internship | not yet
 Learning new spoken language | trying
 
 ### Screenshot
-![My Screenshot] (screenshot.png)
+![My Screenshot](screenshot.png)
