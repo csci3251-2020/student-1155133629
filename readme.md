@@ -1,5 +1,5 @@
 # Li Pui Lam Precila
-## Something about me...
+### Something about me...
 I am a CS student but I am **not good at coding**... That's **true**...
 I just enter CUHK this year with Advanced Standing. Hope I can learn better coding...
 
@@ -10,16 +10,16 @@ I just enter CUHK this year with Advanced Standing. Hope I can learn better codi
 (but still not familiar with them)
 
 ### What I like to do
-[x] sleep
-[x] eat
-[x] go travel
+- [x] sleep
+- [x] eat
+- [x] go travel
 
 ### What I need to do
-Stuff|Status
+Stuff | Status
 --- | --- 
 Getting good grades :D | not yet
 Finding Internship | not yet
-Learning new language | trying
+Learning new spoken language | trying
 
 ### Screenshot
-
+![My Screenshot] (screenshot.png)
